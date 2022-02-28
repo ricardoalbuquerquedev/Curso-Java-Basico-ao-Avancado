@@ -21,7 +21,7 @@ public class Filter {
         alunos.stream()
                 .filter(aprovado)
                 .map(saudacaoAprovado)
-                .forEach(System.out::println);
+                .forEach(System.out::println);// System.out::println é pegar referencia de println
 
     }
 }

@@ -1,6 +1,6 @@
 package Lambdas;
 
-public class Produto {
+public class Produto extends Object{
 
     final String nome;
     final double preco;

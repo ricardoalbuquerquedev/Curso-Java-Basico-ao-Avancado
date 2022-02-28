@@ -1,2 +1,8 @@
-package projetoTop;public class Main {
+package projetoTop;
+
+public class Main {
+    public static void main(String[] args) {
+        Sistema sistema = new Sistema();
+        sistema.inicializar();
+    }
 }

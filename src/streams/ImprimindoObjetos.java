@@ -9,13 +9,13 @@ import java.util.stream.Stream;
 public class ImprimindoObjetos {
     public static void main(String[] args) {
 
-        List<String> aprovados = Arrays.asList("Lu", "Gui","Luca", "Ana");
+        List<String> aprovados = Arrays.asList("Lu", "Gui","Luca", "Ana"); // <String> isso eh o generics
         System.out.println("Usando o foreach...");
         for (String nome: aprovados){
             System.out.println(nome);
         }
         System.out.println("\nUsando Iterator...");
-        Iterator<String> iterator = aprovados.iterator();
+        Iterator<String> iterator = aprovados.iterator(); // <String> isso eh o generics
         while(iterator.hasNext()){
             System.out.println(iterator.next());
         }

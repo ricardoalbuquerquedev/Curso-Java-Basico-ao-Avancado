@@ -18,7 +18,7 @@ public class MeuDesafioFilter {
 
         List<Produto> produtos = Arrays.asList(p1,p2,p3,p4,p5);
         Predicate<Produto> barato = p-> p.preco <=500;
-        Predicate<Produto> produtoRelevante = p-> p.preco>=20;
+        Predicate<Produto> produtoRelevante = p-> p.preco>=200;
 
         Function<Produto,String> saudacaoBarato = a->a.nome + "Produto em conta ";
 

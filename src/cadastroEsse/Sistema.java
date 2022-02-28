@@ -1,4 +1,4 @@
-package cadastro;
+package cadastroEsse;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -23,17 +23,17 @@ public class Sistema {
      public  void cadastrarUsuario() {
         String nome;
         Integer cpf;
-        Integer celular;
+        Integer telefone;
 
         System.out.println("Informe o nome do Usuário");
         nome = teclado.nextLine();
 
         System.out.println("Informe o CPF");
         cpf = teclado.nextInt();
-        System.out.println("Informe o Celular");
-        celular = teclado.nextInt();
+        System.out.println("Informe o Telefone");
+        telefone = teclado.nextInt();
         teclado.reset();
-        Pessoa pessoa = new Pessoa(nome, cpf, celular, null);
+        Pessoa pessoa = new Pessoa(nome, cpf, telefone, null);
         pessoas.add(pessoa);
     }
 

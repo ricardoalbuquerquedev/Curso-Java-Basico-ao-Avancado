@@ -14,14 +14,14 @@ public class DesafioMap {
         //3. Converter de volta para inteiro "011" =>3
 
         UnaryOperator<String> inverter =
-                s-> new StringBuilder(s).reverse().toString();
+                s-> new StringBuilder(s).reverse().toString(); // StringBuilder é uma classe que ajuda a manipular strings
         Function<String, Integer> bionarioParaInt=
                 s-> Integer.parseInt(s,2);
 
-        nums.stream()
-                .map(Integer::toBinaryString) // referencia do metodo
-                .map(inverter)
-                .map(bionarioParaInt)
-                .forEach(System.out::println);
+        nums.stream() // aqui gerei a stream (operação build - construção)
+                .map(Integer::toBinaryString) // referencia do metodo , aqui fiz uma op.intermediaria
+                .map(inverter) //aqui fiz uma op.intermediaria
+                .map(bionarioParaInt) //aqui fiz uma op.intermediaria
+                .forEach(System.out::println); // op. de terminação o forEach
     }
 }

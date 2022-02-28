@@ -4,6 +4,8 @@ public class Produto {
     String nome; // atributo / variáveis
     double preco; // atributo /variáveis
    static double desconto= 0.25; // atributo/ variáveis
+
+
     //String e double acima são o tipo
 
 

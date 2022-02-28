@@ -21,7 +21,5 @@ public class ProdutoTeste {
         System.out.printf("Média carrinho =R$%.2f" , mediaCarrinho);
 
 
-
-
     }
 }

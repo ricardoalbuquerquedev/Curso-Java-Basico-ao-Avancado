@@ -1,4 +1,4 @@
-package cadastro;
+package cadastroEsse;
 
 import java.util.Scanner;
 
