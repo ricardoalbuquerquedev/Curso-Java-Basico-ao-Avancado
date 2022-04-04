@@ -1,5 +1,7 @@
 package streams;
 
+import java.util.Objects;
+
 public class Aluno {
 
     final String nome;
@@ -10,4 +12,14 @@ public class Aluno {
         this.nome = nome;
         this.nota = nota;
     }
-}
+
+    @Override
+    public String toString() {
+        return nome + " Tem nota " + nota;
+    }
+
+
+    }
+
+
+
