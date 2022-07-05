@@ -1,4 +1,4 @@
-package voltandoAoComeco.Secao4;
+package oo.revisao.Secao4;
 
 import java.util.Scanner;
 

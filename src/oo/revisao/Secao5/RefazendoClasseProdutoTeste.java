@@ -1,4 +1,4 @@
-package voltandoAoComeco.Secao5;
+package oo.revisao.Secao5;
 
 public class RefazendoClasseProdutoTeste {
     public static void main(String[] args) {

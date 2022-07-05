@@ -1,8 +1,4 @@
-package Fundamentoss;
-
-import java.math.BigInteger;
-import java.security.cert.Extension;
-import java.sql.SQLOutput;
+package Fundamentos;
 
 public class hi {
     public static void main(String[] args) {

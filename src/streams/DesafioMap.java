@@ -20,7 +20,7 @@ public class DesafioMap {
 
         nums.stream() // aqui gerei a stream (operação build - construção)
                 .map(Integer::toBinaryString) // referencia do metodo , aqui fiz uma op.intermediaria
-                .map(inverter) //aqui fiz uma op.intermediaria
+                 .map(inverter) //aqui fiz uma op.intermediaria
                 .map(bionarioParaInt) //aqui fiz uma op.intermediaria
                 .forEach(System.out::println); // op. de terminação o forEach
     }

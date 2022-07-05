@@ -1,4 +1,4 @@
-package voltandoAoComeco.Secao6;
+package oo.revisao.Secao6;
 
 import java.util.Date;
 

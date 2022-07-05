@@ -1,4 +1,4 @@
-package Fundamentoss;
+package Fundamentos;
 
 public class Ternário {
     public static void main(String[] args) {

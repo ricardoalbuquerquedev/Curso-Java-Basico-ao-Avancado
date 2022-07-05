@@ -1,6 +1,4 @@
-package voltandoAoComeco.Secao4;
-
-import java.util.Scanner;
+package oo.revisao.Secao4;
 
 public class ExtraExercS4N5 {
 

@@ -1,4 +1,4 @@
-package voltandoAoComeco.Secao4;
+package oo.revisao.Secao4;
 
 public class RefaWhileDeterminado { // essa estrutura é mais propicia p uma quantiDADE INDETERMINADA DE REPETICOES
     public static void main(String[] args) {

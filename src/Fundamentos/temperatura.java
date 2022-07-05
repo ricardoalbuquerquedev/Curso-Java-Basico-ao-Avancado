@@ -1,6 +1,4 @@
-package Fundamentoss;
-
-import java.util.Arrays;
+package Fundamentos;
 
 public class temperatura {
     public static void main(String[] args) {

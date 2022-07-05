@@ -1,6 +1,4 @@
-package voltandoAoComeco.Secao6;
-
-import java.util.Objects;
+package oo.revisao.Secao6;
 
 public class Uusuario {
 

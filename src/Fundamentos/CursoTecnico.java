@@ -1,4 +1,4 @@
-package Fundamentoss;
+package Fundamentos;
 
 public class CursoTecnico {
     public static void main(String[] args) {

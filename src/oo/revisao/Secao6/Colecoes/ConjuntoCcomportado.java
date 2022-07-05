@@ -1,4 +1,4 @@
-package voltandoAoComeco.Secao6.Colecoes;
+package oo.revisao.Secao6.Colecoes;
 
 
 import java.util.HashSet;

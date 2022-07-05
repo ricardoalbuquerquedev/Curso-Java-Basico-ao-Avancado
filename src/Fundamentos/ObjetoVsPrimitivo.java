@@ -1,4 +1,4 @@
-package Fundamentoss;
+package Fundamentos;
 
 public class ObjetoVsPrimitivo {
     public static void main(String[] args) {

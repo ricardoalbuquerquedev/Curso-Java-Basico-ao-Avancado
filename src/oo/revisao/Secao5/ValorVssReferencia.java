@@ -1,6 +1,4 @@
-package voltandoAoComeco.Secao5;
-
-import Classe.Data;
+package oo.revisao.Secao5;
 
 public class ValorVssReferencia {
     public static void main(String[] args) {

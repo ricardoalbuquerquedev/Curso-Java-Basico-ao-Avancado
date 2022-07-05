@@ -27,7 +27,5 @@ public class MeuDesafioFilter {
                 .filter(barato)
                 .map(saudacaoBarato)
                 .forEach(System.out::println);
-
-
     }
 }

@@ -1,4 +1,4 @@
-package voltandoAoComeco.Secao3.operadoores;
+package oo.revisao.Secao3.operadoores;
 
 public class Arithmetic {
     public static void main(String[] args) {

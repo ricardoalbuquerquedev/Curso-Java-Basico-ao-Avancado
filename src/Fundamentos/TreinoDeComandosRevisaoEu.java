@@ -1,4 +1,4 @@
-package Fundamentoss;
+package Fundamentos;
 
 public class TreinoDeComandosRevisaoEu {
     public static void main(String[] args) {

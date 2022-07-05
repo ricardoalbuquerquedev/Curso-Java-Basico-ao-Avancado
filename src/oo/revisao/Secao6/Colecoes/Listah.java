@@ -1,7 +1,6 @@
-package voltandoAoComeco.Secao6.Colecoes;
+package oo.revisao.Secao6.Colecoes;
 
 import java.util.ArrayList;
-import java.util.List;
 
 public class Listah {
     public static void main(String[] args) {
