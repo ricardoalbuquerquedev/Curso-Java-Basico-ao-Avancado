@@ -1,6 +1,6 @@
-package excecao.personalizadaB;
+package excecao.personalizadaA;
 
-public class StringVaziaException extends Exception {
+public class StringVaziaException extends RuntimeException {
 
     private String nomeDoAtributo;
 

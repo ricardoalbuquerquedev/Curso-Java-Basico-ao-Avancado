@@ -1,4 +1,4 @@
-package oo.revisao.Secao5;
+package voltandoAoComeco.Secao5;
 
 public class DesafioTraumaUm {
     int a = 3;// esse atributo pertence à instância

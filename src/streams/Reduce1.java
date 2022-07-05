@@ -12,7 +12,7 @@ public class Reduce1 {
         int total1= nums.parallelStream().reduce(soma).get(); // da forma que chamei reduce aqui ele eh optional de integer pq usei get(opcional de inteiro)
         System.out.println(total1);
 
-        Integer total2 = nums.stream().reduce(200,soma); // stream serial
+        Integer total2 = nums.stream().reduce(100,soma); // stream serial
         System.out.println(total2);
 
         //Resultado foi um Optional<Integer> (opcional de Integer)

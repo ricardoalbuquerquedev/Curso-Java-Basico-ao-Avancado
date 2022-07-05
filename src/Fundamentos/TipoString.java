@@ -1,4 +1,6 @@
-package Fundamentos;
+package Fundamentoss;
+
+import java.sql.SQLOutput;
 
 public class TipoString {
     public static void main(String[] args) {

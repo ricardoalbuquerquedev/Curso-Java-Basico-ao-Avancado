@@ -7,7 +7,7 @@ import java.util.function.Predicate;
 
 public class Filter {
     public static void main(String[] args) {
-        Aluno a1 = new Aluno("Ana", 5.8);
+        Aluno a1 = new Aluno("Ana", 7.8);
         Aluno a2 = new Aluno("Bia", 5.8);
         Aluno a3 = new Aluno("Daniel", 9.8);
         Aluno a4 = new Aluno("Gui", 6.8);

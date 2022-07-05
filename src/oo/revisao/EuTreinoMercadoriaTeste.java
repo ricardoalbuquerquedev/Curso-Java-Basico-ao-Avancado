@@ -1,4 +1,4 @@
-package oo.revisao;
+package voltandoAoComeco;
 
 public class EuTreinoMercadoriaTeste {
     public static void main(String[] args) {

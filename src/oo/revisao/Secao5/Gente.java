@@ -1,4 +1,4 @@
-package oo.revisao.Secao5;
+package voltandoAoComeco.Secao5;
 
 public class Gente {
 

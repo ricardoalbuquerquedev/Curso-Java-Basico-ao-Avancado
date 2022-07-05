@@ -1,9 +1,6 @@
-package excecao.personalizadaB;
+package excecao.personalizadaA;
 
 import excecao.Aluno;
-import excecao.personalizadaA.NumeroForaIntervaloException;
-import excecao.personalizadaA.StringVaziaException;
-import excecao.personalizadaA.Validar;
 
 public class TesteValidacoes {
 
@@ -20,7 +17,6 @@ public class TesteValidacoes {
        }catch (NumeroForaIntervaloException | IllegalArgumentException e) {
            System.out.println(e.getMessage());
        }
-
         System.out.println("Fim :)");
     }
 }

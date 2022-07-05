@@ -1,15 +1,12 @@
-package excecao.personalizadaB;
+package excecao.personalizadaA;
 
 import excecao.Aluno;
-import excecao.personalizadaA.NumeroForaIntervaloException;
-import excecao.personalizadaA.StringVaziaException;
 
 public class Validar {
 
     private Validar() { }
 
-    public static void aluno (Aluno aluno) throws excecao.personalizadaB.StringVaziaException,
-            excecao.personalizadaB.NumeroForaIntervaloException {
+    public static void aluno (Aluno aluno) {
 
         if (aluno  == null) {
             throw new IllegalArgumentException("O aluno está nulo!");

@@ -1,11 +1,11 @@
-package excecao;
+package streams;
 
 import java.util.Objects;
 
 public class Aluno {
 
-    public String nome;
-    public final double nota;
+    final String nome;
+    final double nota;
 
 
     public Aluno(String nome, double nota) {

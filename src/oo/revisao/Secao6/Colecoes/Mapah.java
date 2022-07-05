@@ -1,4 +1,4 @@
-package oo.revisao.Secao6.Colecoes;
+package voltandoAoComeco.Secao6.Colecoes;
 
 import java.util.HashMap;
 import java.util.Map;

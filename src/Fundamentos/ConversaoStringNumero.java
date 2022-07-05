@@ -1,6 +1,7 @@
-package Fundamentos;
+package Fundamentoss;
 
 import javax.swing.*;
+import java.math.BigDecimal;
 
 public class ConversaoStringNumero {
     public static void main(String[] args) {

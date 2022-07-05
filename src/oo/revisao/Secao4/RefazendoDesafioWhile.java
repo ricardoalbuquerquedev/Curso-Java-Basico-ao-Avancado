@@ -1,6 +1,7 @@
-package oo.revisao.Secao4;
+package voltandoAoComeco.Secao4;
 
 import java.util.Scanner;
+import java.util.zip.DeflaterOutputStream;
 
 public class RefazendoDesafioWhile {
     public static void main(String[] args) {

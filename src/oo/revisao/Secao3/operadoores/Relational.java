@@ -1,4 +1,4 @@
-package oo.revisao.Secao3.operadoores;
+package voltandoAoComeco.Secao3.operadoores;
 
 public class Relational {
     public static void main(String[] args) {

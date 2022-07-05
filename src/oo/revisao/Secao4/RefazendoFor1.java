@@ -1,4 +1,4 @@
-package oo.revisao.Secao4;
+package voltandoAoComeco.Secao4;
 
 public class RefazendoFor1 {
     public static void main(String[] args) {
